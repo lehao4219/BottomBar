@@ -37,7 +37,7 @@ compile 'com.lehao4219:bottom-bar:2.0.2'
 **Maven:**
 ```xml
 <dependency>
-  <groupId>com.roughike</groupId>
+  <groupId>com.lehao4219</groupId>
   <artifactId>bottom-bar</artifactId>
   <version>2.0.2</version>
   <type>pom</type>
