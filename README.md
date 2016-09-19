@@ -31,7 +31,7 @@ Your uncle Bob's Galaxy S Mini will probably be supported in the future though.
 ## Gimme that Gradle sweetness, pls?
 
 ```groovy
-compile 'com.roughike:bottom-bar:2.0.2'
+compile 'com.lehao4219:bottom-bar:2.0.2'
 ```
 
 **Maven:**
